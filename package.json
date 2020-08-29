@@ -1,0 +1,17 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Dea",
+  "license": "ISC",
+  "dependencies": {
+    "@nivo/bar": "^0.62.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
