@@ -7,7 +7,5 @@
 ## Website
 https://nutritioncharts.herokuapp.com/ 
 
-![alt text](https://ibb.co/7Whj0hF)
+<img src="https://drive.google.com/uc?export=view&id=1lctyTlhT82yZf2VKnFULZUGK2wKGt_by" align="left" width="500px">
 
-
-#### Date completed: July 2020 
