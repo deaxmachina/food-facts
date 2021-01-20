@@ -1,6 +1,6 @@
 # Nutrition Facts Comparison Dashboard 
 
-## Description: 
+## Description
 - Simple React App fetching nutrition facts from API (https://developer.edamam.com/) and allowing for nutritional comparison of foods via a small dashboard. 
 - Has a node and express backend. 
 - Uses Nivo for the visualisation and material ui. 
