@@ -2,8 +2,8 @@
 
 ## Description
 - Simple React App fetching nutrition facts from API (https://developer.edamam.com/) and allowing for nutritional comparison of foods via a small dashboard. 
-- Has a node and express backend. 
-- Uses Nivo for the visualisation and material ui. 
+- Has a NodeJS and Express backend. 
+- Uses Nivo for the visualisation and Material-UI for some of the UI elements. 
 ## Website
 https://nutritioncharts.herokuapp.com/ 
 
